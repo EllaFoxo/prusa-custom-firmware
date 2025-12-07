@@ -1,7 +1,7 @@
 ---
-weight: 2
+weight: 101
 title: "Getting Started"
-# description: "Install and run custom firmware, such as Klipper/Kalico on your Prusa 3D printer."
+description: "An introduction to custom firmware"
 date: "2025-12-07T00:10:31+01:00"
 lastmod: "2025-12-07T00:10:31+01:00"
 icon: "developer_guide"

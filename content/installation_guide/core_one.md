@@ -1,6 +1,6 @@
 ---
-weight: 101
-title: "MK4 / MK4S"
+weight: 202
+title: "Core One / Core One+"
 draft: false
 toc: true
 # description: "Example document nested inside multiple subfolders"
