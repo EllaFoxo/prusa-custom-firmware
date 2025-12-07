@@ -20,7 +20,7 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/FDM-xBUDDY-44.pdf" >}}
+{{< pdfReader "schematics/FDM-xBUDDY-44.pdf" >}}
 
 ---
 ## Sources

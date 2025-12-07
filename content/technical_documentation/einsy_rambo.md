@@ -19,7 +19,7 @@ tags: ["einsy rambo", "einsy", "rambo", "MK3", "MK3S", "MK3S+", "MK3.5", "MK3.5S
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/Einsy Rambo_1.1a.pdf" >}}
+{{< pdfReader "schematics/Einsy Rambo_1.1a.pdf" >}}
 
 ---
 ## Sources

@@ -20,7 +20,7 @@ tags: ["filament sensor", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core On
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/FDM-XL-MKx-FilamentSens-45.pdf" >}}
+{{< pdfReader "schematics/FDM-XL-MKx-FilamentSens-45.pdf" >}}
 
 ---
 ## Sources

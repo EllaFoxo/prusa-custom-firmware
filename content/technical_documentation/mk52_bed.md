@@ -23,7 +23,7 @@ tags: ["xLCD", "MK3", "MK3S", "MK3S+", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core O
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/FDM-MKx-Heatbed-15.pdf" >}}
+{{< pdfReader "schematics/FDM-MKx-Heatbed-15.pdf" >}}
 
 ---
 ## Sources

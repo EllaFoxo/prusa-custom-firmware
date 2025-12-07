@@ -20,7 +20,7 @@ tags: ["xLCD", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Core 
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/FDM-XL-MKx-xLCD-29.pdf" >}}
+{{< pdfReader "schematics/FDM-XL-MKx-xLCD-29.pdf" >}}
 
 ---
 ## Sources

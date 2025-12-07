@@ -20,7 +20,7 @@ tags: ["loveboard", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "
 ## Electrical Schematics
 ---
 
-{{< pdfReader "/schematics/FDM-MK4-LoveBoard-38.pdf" >}}
+{{< pdfReader "schematics/FDM-MK4-LoveBoard-38.pdf" >}}
 
 ---
 ## Sources
