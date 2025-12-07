@@ -3,7 +3,7 @@ weight: 303
 title: "xLCD"
 draft: false
 toc: true
-# description: "Example document nested inside multiple subfolders"
+description: "The touchscreen display for the MK4, Core One, and XL series"
 date: "2025-12-07T00:10:31+01:00"
 lastmod: "2025-12-07T00:10:31+01:00"
 tags: ["xLCD", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Core One L", "XL"]

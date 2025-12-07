@@ -1,20 +1,18 @@
 ---
 weight: 302
-title: "xBuddy"
+title: "Buddy"
 draft: false
 toc: true
-description: "The mainboard found on the MK4 and Core One series"
+description: "Prusa Mini and Mini+ mainboard"
 date: "2025-12-07T00:10:31+01:00"
 lastmod: "2025-12-07T00:10:31+01:00"
-tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Core One L"]
+tags: ["xBuddy", "Mini", "Mini+"]
 ---
 
 ## List of printers using this board
 ---
-- Prusa MK4
-- Prusa MK4S
-- Prusa Core One
-- Prusa Core One L
+- Prusa Mini
+- Prusa Mini+
 
 <br/>
 
@@ -23,29 +21,29 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 
 | Part             | Value            |
 |:-----------------|:-----------------|
-| MCU              | STM32F427 (ZIT6) |
-| Flash            | 2MiB             |
-| SRAM             | 256KiB           |
-| Prusa Bootloader | 128KiB           |
+| MCU              | STM32F407 (VGT6) |
+| Flash            | TBC              |
+| SRAM             | TBC              |
+| Prusa Bootloader | TBC              |
 
 <br/>
 
 ## Electrical Schematics
 ---
 
-- [FDM-xBUDDY-44.pdf](/files/schematics/FDM-xBUDDY-44.pdf)
+- [BUDDY_v1.0.0.pdf](/files/schematics/BUDDY_v1.0.0.pdf)
 
 <br/>
 
 ## Firmware Dumps
 ---
 
-These firmware files are direct binary dumps from the flash memory of the xBuddy board. They serve as a safety net,
+These firmware files are direct binary dumps from the flash memory of the Buddy board. They serve as a safety net,
 in case you accidentally do something stupid to brick your bootloader.  
 To flash these, you will need to enter DFU mode.
 
-#### Prusa MK4/S
-- [Firmware v6.4.0 (25-Nov-2025)](/files/firmware_dumps/prusa_mk4s_6_4_0_2025_11_25.bin)
+#### Prusa Mini+
+- TBC
 
 <br/>
 
@@ -97,6 +95,6 @@ Stock option configuration for the F427 MCU.
 ## Sources
 ---
 
-- [Prusa Open Source](https://www.prusa3d.com/page/open-source-at-prusa-research_236812/)
+- [Prusa Buddy Board - GitHub](https://github.com/prusa3d/Buddy-board-MINI-PCB/)
 
 <br/>
