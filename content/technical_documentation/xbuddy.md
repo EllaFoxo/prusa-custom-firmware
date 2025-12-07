@@ -28,6 +28,8 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 | SRAM                     | 256KiB                        |
 | Prusa Bootloader         | 128KiB (with 512 byte offset) |
 | Application Start Offset | 0x8020200                     |
+| System Clock Reference   | 12MHz                         |
+| USB Filesystem           | PA11/PA12                     |
 
 <br/>
 
@@ -46,7 +48,7 @@ in case you accidentally do something stupid to brick your bootloader.
 To flash these, you will need to enter DFU mode.
 
 #### Prusa MK4/S
-- [Firmware v6.4.0 (25-Nov-2025)](/files/firmware_dumps/prusa_mk4s_6_4_0_2025_11_25.bin)
+- [Firmware v6.4.0, Bootloader 2.5.0 (25-Nov-2025)](/files/firmware_dumps/prusa_mk4s_6_4_0_2025_11_25.bin)
 
 <br/>
 
