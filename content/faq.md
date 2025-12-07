@@ -1,5 +1,5 @@
 ---
-weight: 104
+weight: 106
 title: "FAQ"
 description: "Frequently Asked Questions"
 date: "2025-12-07T00:10:31+01:00"

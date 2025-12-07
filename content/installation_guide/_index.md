@@ -1,5 +1,5 @@
 ---
-weight: 103
+weight: 104
 title: "Installation Guide"
 icon: "menu_book"
 description: "Printer specific guides for installing custom firmware"
