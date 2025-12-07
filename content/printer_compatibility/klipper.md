@@ -24,7 +24,7 @@ develop.
 | Motion System        | ✅             | ✅             | ✅             | ✅            | ✅           | ✅                  | ✅                              | ❓              |
 | Extruder             | ✅             | ✅             | ✅             | ✅            | ✅           | ✅                  | ✅                              | ❓              |
 | Hotend Thermistor    | ✅             | ✅             | ✅             | ✅            | ✅           | ✅                  | ✅                              | ❓              |
-| Heatbreak Thermistor | -             | ✅             | ✅             | -            | ✅           | ✅                  | ✅                              | ❓              |
+| Heatbreak Thermistor | -             | -             | ✅             | -            | ✅           | ✅                  | ✅                              | ❓              |
 | Bed Thermistor       | ✅             | ✅             | ✅             | ✅            | ✅           | ✅                  | ✅                              | ❓              |
 | Filament Sensor      | ✅             | ❌             | ❌             | ❌            | ❌           | ❌                  | ❌                              | ❓              |
 | Load Cell            | -             | -             | ✅             | -            | ✅           | ✅                  | ✅ Single Tool<br/>❌ Multi Tool | ❓              |
