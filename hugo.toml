@@ -5,6 +5,11 @@ enableEmoji = true
 enableGitInfo = true
 sectionPagesMenu = "main"
 defaultContentLanguage = 'en'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [languages]
 [languages.en]
 title = "Prusa Custom Firmware"
