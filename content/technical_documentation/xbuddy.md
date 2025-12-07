@@ -28,8 +28,9 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 | SRAM                     | 256KiB                        |
 | Prusa Bootloader         | 128KiB (with 512 byte offset) |
 | Application Start Offset | 0x8020200                     |
-| System Clock Reference   | 12MHz                         |
-| USB Filesystem           | PA11/PA12                     |
+| MCU Clock Frequency      | 180 MHz                       |
+| System Clock Reference   | 12 MHz                        |
+| USB Filesystem           | PA11 / PA12                   |
 
 <br/>
 
