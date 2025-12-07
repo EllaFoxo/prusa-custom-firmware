@@ -16,6 +16,20 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 - Prusa Core One
 - Prusa Core One L
 
+<br/>
+
+## Technical Specification
+---
+
+| Part             | Value            |
+|:-----------------|:-----------------|
+| MCU              | STM32F427 (ZIT6) |
+| Flash            | 2MiB             |
+| SRAM             | 256KiB           |
+| Prusa Bootloader | 128KiB           |
+
+<br/>
+
 ## Electrical Schematics
 ---
 
