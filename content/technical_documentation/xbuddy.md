@@ -21,12 +21,13 @@ tags: ["xBuddy", "MK3.9", "MK3.9S", "MK4", "MK4S", "Core One", "Core One+", "Cor
 ## Technical Specification
 ---
 
-| Part             | Value            |
-|:-----------------|:-----------------|
-| MCU              | STM32F427 (ZIT6) |
-| Flash            | 2MiB             |
-| SRAM             | 256KiB           |
-| Prusa Bootloader | 128KiB           |
+| Part                     | Value                         |
+|:-------------------------|:------------------------------|
+| MCU                      | STM32F427 (ZIT6)              |
+| Flash                    | 2MiB                          |
+| SRAM                     | 256KiB                        |
+| Prusa Bootloader         | 128KiB (with 512 byte offset) |
+| Application Start Offset | 0x8020200                     |
 
 <br/>
 
