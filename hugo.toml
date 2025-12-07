@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-GB"
+languageCode = "en"
 contentDir = "content"
 enableEmoji = true
 enableGitInfo = true
@@ -127,13 +127,6 @@ enabled             = false
 # appID     = "" # Algolia Application ID
 # apiKey    = "" # Algolia Search-Only API (Public) Key
 # indexName = "" # Index Name to perform search on (or set env variable HUGO_PARAM_DOCSEARCH_indexName)
-
-[menu]
-[[menu.primary]]
-name  = "Quickstart"
-url = "quickstart/"
-identifier = "quickstart"
-weight = 10
 
 # [[menu.primary]]
 #     name  = "Showcase"
