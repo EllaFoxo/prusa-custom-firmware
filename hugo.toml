@@ -5,6 +5,7 @@ enableEmoji = true
 enableGitInfo = true
 sectionPagesMenu = "main"
 defaultContentLanguage = 'en'
+enableRobotsTXT = true
 
 [caches]
 [caches.images]
