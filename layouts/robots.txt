@@ -58,7 +58,6 @@ User-Agent: Yeti
 User-Agent: AdsBot-Google
 User-Agent: AdsBot-Google-Mobile
 User-Agent: APIs-Google
-
 User-agent: .ai
 User-agent: -ai
 User-agent: _ai
